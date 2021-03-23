@@ -2,20 +2,20 @@
 
 <br/>
 <p align="center">
-  <a href="https://htl-anichstrasse.tirol">
-    <img src="./.github/htl-logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <a href="https://htl-anichstrasse.tirol">
+      <img src="./.github/htl-logo.png" alt="Logo" width="80" height="80">
+    </a>
 
-  <h3 align="center">Raspberry-SWP-Server</h3>
+<h3 align="center">Raspberry-SWP-Server</h3>
 
-  <p align="center">
+<p align="center">
     <br/>
     <a href="https://github.com/htl-anichstrasse/template/releases">Releases</a>
     ·
     <a href="https://github.com/htl-anichstrasse/template/issues">Report Bug</a>
     ·
     <a href="https://github.com/htl-anichstrasse/template/issues">Request Feature</a>
-  </p>
+    </p>
 </p>
 
 ## About the project
@@ -30,8 +30,6 @@ Clone the repository.
 ```
 git clone https://github.com/htl-anichstrasse/raspberry-swp-server.git
 ```
-
-Step 2 here
 
 ## Contact
 
