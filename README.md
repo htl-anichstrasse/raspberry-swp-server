@@ -5,6 +5,7 @@
     <a href="https://htl-anichstrasse.tirol">
       <img src="./.github/htl-logo.png" alt="Logo" width="80" height="80">
     </a>
+</p>
 
 <h3 align="center">Raspberry-SWP-Server</h3>
 
@@ -15,8 +16,8 @@
     <a href="https://github.com/htl-anichstrasse/template/issues">Report Bug</a>
     ·
     <a href="https://github.com/htl-anichstrasse/template/issues">Request Feature</a>
-    </p>
 </p>
+
 
 ## About the project
 
