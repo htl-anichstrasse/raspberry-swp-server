@@ -3,7 +3,7 @@ import os
 import socketserver
 
 HOST = os.environ.get('SERVER_HOST', "")
-PORT = os.environ.get('SERVER_PORT', 9001)
+PORT = int(os.environ.get('SERVER_PORT', '9001'))
 
 class DefaultHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
